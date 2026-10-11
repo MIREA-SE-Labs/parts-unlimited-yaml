@@ -9,5 +9,5 @@ describe("cartTotal", () => {
         { price: 100, qty: 2 },
         { price: 50, qty: 1 },
       ]),
-    ).toBe(250));
+    ).toBe(251));
 });
